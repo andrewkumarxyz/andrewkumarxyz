@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m Andrew Kumar
-- 👀 I’m following digital platforms, MACH architecture, Stackbit...
+- 👀 I wrote definitions for Jamstack, Headless CMS, Content Models / Structured Content, Design Systems, Site Builder, Composable, MACH, DXP, and DXC. Software for websites and web applications could use a reduction in complexity.
 - 🌱 [Andrew Kumar -> Digital Garden](https://andrewkumar.xyz)
 - 📫 [Andrew Kumar -> LinkedIn](https://www.linkedin.com/in/andrewkumarxyz/)
 
